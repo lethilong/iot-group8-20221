@@ -1,0 +1,14 @@
+{
+  "BROKER_URL": "broker.hivemq.com",
+  "BROKER_PORT": 1883,
+  "TOPICS": [
+    {
+      "DEVICE_ID": "64047ec0053d4356f48e4bda",
+      "TIME_INTERVAL": 50,
+      "MESSSAGE": [
+        "Warning: Detect stranger intrusion in your house",
+        "Warning: Please close the door"
+      ]
+    }
+  ]
+}

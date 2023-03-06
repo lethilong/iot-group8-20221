@@ -1,0 +1,11 @@
+.houseData {
+    width: 100%;
+    height: fit-content;
+    min-height: calc(100vh - 65px);
+    background: var(--dark-green);
+    color: var(--grey);
+    border-radius: 0 0 20px 20px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}

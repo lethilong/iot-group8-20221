@@ -1,0 +1,12 @@
+.App {
+  font-weight: 100;
+}
+.container {
+  padding-top: 70px;
+  padding-bottom: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 95vw;
+  overflow-x: hidden;
+}
